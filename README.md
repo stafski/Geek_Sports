@@ -25,3 +25,7 @@ HTML, CSS, JavaScript e manipulação do DOM (Document Object Model).
 ### Lógica de Programação
 
 A lógica de programação foi aplicada para manipular os elementos da página, realizar buscas por palavras-chave, filtrar os produtos por categoria, adicionar produtos ao carrinho de compras, remover produtos do carrinho e atualizar a quantidade e o valor total do carrinho.
+
+### Link:
+
+[GEEK-SPORTS](https://e-commerce-dom-stafski.vercel.app/)
