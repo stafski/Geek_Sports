@@ -29,3 +29,5 @@ A lógica de programação foi aplicada para manipular os elementos da página, 
 ### Link:
 
 [GEEK-SPORTS](https://e-commerce-dom-stafski.vercel.app/)
+
+### Autor:[Leonardo Stafski](https://github.com/stafski)
