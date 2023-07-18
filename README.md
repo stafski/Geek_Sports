@@ -1,4 +1,4 @@
-Geek Sports - Catálogo Virtual
+#Geek Sports - Catálogo Virtual
 
 Este projeto foi desenvolvido durante o programa de estudos da Kenzie Academy Brasil. Foi criada uma página de catálogo virtual utilizando HTML, CSS, JavaScript e manipulação do DOM.
 
