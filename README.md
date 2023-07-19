@@ -26,6 +26,10 @@ HTML, CSS, JavaScript e manipulação do DOM (Document Object Model).
 
 A lógica de programação foi aplicada para manipular os elementos da página, realizar buscas por palavras-chave, filtrar os produtos por categoria, adicionar produtos ao carrinho de compras, remover produtos do carrinho e atualizar a quantidade e o valor total do carrinho.
 
+### Style Guide
+
+[Style Guide](https://github.com/stafski/Geek_Sports/files/12089901/styleGuide.pdf)
+
 ### Link
 
 [GEEK-SPORTS](https://e-commerce-dom-stafski.vercel.app/)
@@ -61,6 +65,10 @@ HTML, CSS, JavaScript, and DOM manipulation (Document Object Model).
 ### Programming Logic
 
 Programming logic has been applied to manipulate page elements, perform keyword searches, filter products by category, add products to the shopping cart, remove products from the cart, and update the quantity and total value of the cart.
+
+### Style Guide
+
+[Style Guide](https://github.com/stafski/Geek_Sports/files/12089901/styleGuide.pdf)
 
 ### Link
 
